@@ -1,5 +1,3 @@
-
-
 const mainElements = Array.from(document.querySelectorAll(".main-container"));
 
 const buttons = Array.from(document.querySelectorAll("button"));

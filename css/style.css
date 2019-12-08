@@ -18,7 +18,7 @@ ul{
     list-style: none;
 }
 
-ul.skills{
+ul.skills, ul.projects{
     list-style: square;
 }
 
